@@ -1,0 +1,511 @@
+id,weight,features
+210,0.330278222,capital gains
+212,0.3176961,dividends from stocks
+507,0.231892632,weeks worked in year
+113,0.226537514, Masters degree(MA MS MEng MEd MSW MBA)
+358,0.217101818,num persons worked for employer
+0,0.216634774,age
+191,0.186378491, Male
+192,0.186378491, Female
+116,0.166406883, Bachelors degree(BA AB BS)
+211,0.163690735,capital losses
+120,0.162976841, Doctorate degree(PhD EdD)
+117,0.158117656, Prof school degree (MD DDS DVM LLB JD)
+98,0.157938575,2
+175,0.144027289, Executive admin and managerial
+122,0.133961982, High school graduate
+213,0.116395717, Nonfiler
+2,0.110443667, Self-employed-incorporated
+165,0.107716624, Professional specialty
+103,0.107369462,7
+173,0.097908821, Adm support including clerical
+114,0.096590294, 7th and 8th grade
+124,0.091483504, 10th grade
+161,0.090193893, Other service
+136,0.089909305, Never married
+86,0.089572278,26
+63,0.086215775,11
+217,0.084730221, Joint both under 65
+115,0.081158094, 11th grade
+104,0.080693685,4
+320,0.0799006, Householder
+317,0.079840288, Child 18 or older
+125,0.076935415, 9th grade
+297,0.076309128, Child 18+ never marr Not in a subfamily
+500,0.071735439,1
+68,0.071678586,16
+73,0.07158841,31
+119,0.069712548, 5th or 6th grade
+13,0.066327851,13
+163,0.062836876, Machine operators assmblrs & inspctrs
+33,0.062168704,25
+69,0.060755008,17
+168,0.0591587, Sales
+94,0.058324888,29
+171,0.056786251, Handlers equip cleaners etc 
+106,0.056467427,8
+294,0.055921552, Householder
+80,0.052844496,18
+19,0.052276557,33
+140,0.052276557, Retail trade
+3,0.051762312, State government
+89,0.050566186,23
+134,0.049416367, Married-civilian spouse present
+74,0.047937339,36
+105,0.046509088,5
+82,0.046345259,42
+36,0.045749418,26
+157,0.043984193, Manufacturing-durable goods
+71,0.043482955,19
+180,0.04263169, Black
+190,0.041524231, All other
+41,0.040095851,47
+97,0.03980666,37
+7,0.038869604, Federal government
+128,0.038716766, College or university
+96,0.03807165,41
+87,0.037339037,21
+24,0.037260542,34
+5,0.037240745, Not in universe
+93,0.037164225,44
+312,0.03690754, Nonfamily householder
+187,0.03679776, Mexican (Mexicano)
+9,0.036785962, Local government
+44,0.036729494,44
+158,0.036729494, Social services
+109,0.036521462, 1st 2nd 3rd or 4th grade
+51,0.036097546,0
+100,0.036097546,0
+148,0.036097546, Not in universe or children
+169,0.036097546, Not in universe
+177,0.035758522, White
+155,0.035660218, Public administration
+75,0.034736068,38
+141,0.034293851, Finance insurance and real estate
+35,0.034241717,12
+110,0.034136257, 12th grade no diploma
+67,0.03363321,15
+127,0.033608995, Not in universe
+131,0.033594918, Divorced
+111,0.032406269, Less than 1st grade
+199,0.032323908, Not in universe
+21,0.030258276,31
+147,0.030258276, Utilities and sanitary services
+31,0.030177575,19
+38,0.029977144,20
+321,0.029503129, Other relative of householder
+53,0.029388914,6
+222,0.028987286, Midwest
+170,0.028894277, Transportation and material moving
+498,0.028894171,2
+84,0.028770669,24
+205,0.027675019, Full-time schedules
+42,0.027184287,29
+138,0.027184287, Transportation
+329,0.026456067, NonMSA to nonMSA
+27,0.026439933,23
+367,0.026243973, El-Salvador
+72,0.026061938,30
+497,0.025913001, Foreign born- Not a citizen of U S 
+11,0.02585205,11
+486,0.025847255, Scotland
+391,0.025622266, Greece
+121,0.025515316, Associates degree-occup /vocational
+242,0.025492528, Alaska
+57,0.025059949,8
+45,0.024938465,43
+151,0.024938465, Education
+201,0.024936579, Re-entrant
+194,0.024839623, Yes
+64,0.024696996,12
+50,0.024611503,3
+137,0.024611503, Mining
+132,0.024291343, Widowed
+20,0.02382969,30
+146,0.02382969, Communications
+287,0.023491662, Other Rel 18+ ever marr not in subfamily
+469,0.023315446, Nicaragua
+135,0.023058004, Married-A F spouse present
+385,0.023029725, Mexico
+26,0.022737395,39
+143,0.022737395, Personal services except private HH
+62,0.022577145,10
+458,0.022432521, China
+341,0.022215234, Different state in South
+436,0.021967336, Japan
+196,0.021902869, Job loser - on layoff
+179,0.021778581, Amer Indian Aleut or Eskimo
+23,0.021412953,37
+83,0.021367246,25
+144,0.021277932, Manufacturing-nondurable goods
+208,0.021238475, Unemployed part- time
+450,0.021176352, Columbia
+484,0.021096219, Italy
+247,0.020731004, New Mexico
+56,0.020416633,5
+503,0.020380696, No
+359,0.020280458, Not in universe
+79,0.019792188,9
+300,0.019733262, Child <18 never marr not in subfamily
+315,0.019726912, Child under 18 never married
+474,0.019640767, England
+322,0.019450718, Abroad to nonMSA
+472,0.019374316, Mexico
+282,0.019125912, Spouse of RP of unrelated subfamily
+184,0.018977695, Mexican-American
+112,0.018899032, Some college but no degree
+273,0.018656343, Maryland
+362,0.018652692, Both parents present
+275,0.018286635, California
+37,0.018274297,21
+4,0.018182782, Self-employed-not incorporated
+394,0.018027394, ?
+265,0.017852867, Mississippi
+326,0.017596211, MSA to nonMSA
+396,0.017445975, Canada
+43,0.017435394,45
+150,0.017435394, Other professional services
+225,0.017319496, Connecticut
+12,0.017283071,38
+457,0.01720056, United-States
+241,0.017024217, Pennsylvania
+496,0.016777271, Native- Born in the United States
+204,0.016679623, Not in labor force
+85,0.016656388,27
+164,0.016656388, Private household services
+428,0.01649155, Honduras
+30,0.016466478,18
+14,0.016227917,14
+467,0.016019851, Philippines
+406,0.015698576, Ireland
+227,0.01562431, Iowa
+99,0.01558636,3
+318,0.015522028, Nonrelative of householder
+186,0.015515698, Do not know
+333,0.015449744, Same county
+342,0.015449744, Same county
+29,0.015393999,50
+183,0.015364195, Other Spanish
+344,0.015348692, Different state in Northeast
+259,0.015181214, Nevada
+39,0.015055078,49
+263,0.015012875, Louisiana
+311,0.014799312, Other Rel 18+ never marr not in subfamily
+423,0.014795456, Poland
+305,0.014690839, Child 18+ ever marr Not in a subfamily
+78,0.014621513,13
+506,0.0141948,1
+501,0.0141948, Not in universe
+40,0.014117778,22
+167,0.014117181, Farming forestry and fishing
+335,0.013888406, Different region
+52,0.013845068,1
+6,0.013836496, Without pay
+280,0.013760565, Child 18+ ever marr RP of subfamily
+399,0.013696162, Scotland
+22,0.013675774,36
+145,0.013675774, Private household services
+384,0.01355207, Honduras
+244,0.013551348, Montana
+197,0.013545857, Other job loser
+232,0.013537235, Arizona
+123,0.013506463, Children
+272,0.013416756, Indiana
+386,0.0133723, Portugal
+268,0.013371133, District of Columbia
+102,0.013359901,6
+309,0.013292654, RP of unrelated subfamily
+283,0.013263766, Secondary individual
+505,0.01324838,0
+70,0.013225883,32
+412,0.013152788, Outlying-U S (Guam USVI etc)
+185,0.013144424, NA
+368,0.013053537, Guatemala
+95,0.012989982,28
+166,0.012989982, Protective services
+91,0.012805413,43
+388,0.012803748, Jamaica
+373,0.012793348, Thailand
+295,0.012742331, Grandchild 18+ never marr not in subfamily
+470,0.012592512, Vietnam
+493,0.012560175, Native- Born in Puerto Rico or U S Outlying
+133,0.012551634, Married-spouse absent
+218,0.012514607, Head of household
+28,0.012384658,48
+452,0.012298864, Puerto-Rico
+237,0.012028596, Massachusetts
+15,0.011945957,15
+245,0.011940045, Kentucky
+235,0.011923778, New York
+409,0.011870522, Puerto-Rico
+221,0.011863924, Not in universe
+255,0.011863924, Not in universe
+353,0.011863924, No
+25,0.011824964,35
+243,0.011742995, Vermont
+303,0.011644315, Other Rel 18+ spouse of subfamily RP
+246,0.011594443, Nebraska
+238,0.011593272, South Carolina
+441,0.01143753, Italy
+54,0.011397091,7
+443,0.011229357, Scotland
+195,0.011100193, No
+233,0.010997369, Utah
+92,0.010925392,45
+345,0.010911692, Different state in Midwest
+251,0.010881532, Ohio
+202,0.010793166, PT for econ reasons usually FT
+445,0.010710574, Cambodia
+325,0.010693159, Abroad to MSA
+8,0.01069133, Never worked
+200,0.01069133, New entrant
+418,0.010677024, Germany
+405,0.010641338, Peru
+357,0.010577333, Yes
+495,0.010521598, Foreign born- U S citizen by naturalization
+249,0.010464225, Missouri
+433,0.010356632, India
+502,0.010345733, Yes
+18,0.010280887,32
+152,0.010280887, Wholesale trade
+308,0.010101882, In group quarters
+410,0.010027533, El-Salvador
+400,0.01000856, France
+348,0.010003944, Different state in West
+229,0.009848397, Georgia
+178,0.009822419, Asian or Pacific Islander
+262,0.009692499, Maine
+198,0.009672095, Job leaver
+159,0.009560429, Business and repair services
+126,0.009551684,wage per hour
+281,0.009480306, Child 18+ never marr RP of subfamily
+46,0.009348875,28
+435,0.009320348, Greece
+480,0.009300922, Taiwan
+417,0.009281615, Haiti
+203,0.009205906, Children or Armed Forces
+431,0.009169668, England
+189,0.009149515, Puerto Rican
+478,0.009120202, Greece
+444,0.008874643, France
+316,0.008826479, Spouse of householder
+1,0.008729972, Private
+420,0.00872978, Iran
+488,0.008691503, Cambodia
+487,0.008637188, France
+407,0.008496607, Columbia
+471,0.008424233, Honduras
+224,0.008415265, South
+188,0.008315825, Central or South American
+437,0.008222584, Taiwan
+277,0.008174416, Spouse of householder
+330,0.008171259, Not identifiable
+274,0.008132401, Texas
+253,0.008074029, Virginia
+449,0.007901345, Ireland
+16,0.007896391,16
+60,0.007828192,51
+108,0.007828192,46
+160,0.007828192, Armed Forces
+174,0.007828192, Armed Forces
+442,0.007814647, Panama
+220,0.007737632, West
+296,0.007653266, Child 18+ spouse of subfamily RP
+129,0.007558791, High school
+392,0.007489897, Japan
+383,0.00747617, Vietnam
+162,0.007474175, Technicians and related support
+389,0.007465371, India
+402,0.007458682, Ecuador
+209,0.007440927, Unemployed full-time
+413,0.007385302, Holand-Netherlands
+411,0.007382997, Guatemala
+248,0.007372569, Alabama
+360,0.007354875, Mother only present
+370,0.007255519, Holand-Netherlands
+490,0.0071332, Laos
+90,0.007129824,22
+366,0.007062309, Puerto-Rico
+219,0.00702972, Northeast
+264,0.006883837, North Dakota
+172,0.006866657, Precision production craft & repair
+448,0.006865694, Peru
+426,0.006814661, Hong Kong
+47,0.006769034,41
+156,0.006769034, Hospital services
+432,0.006741513, Jamaica
+440,0.006688625, Canada
+32,0.00661619,42
+139,0.00661619, Medical except hospital
+182,0.00659604, Chicano
+153,0.006586488, Agriculture
+231,0.006535326, Michigan
+356,0.006508039, No
+338,0.006480807, Different county same state
+347,0.006480807, Different county same state
+77,0.00641072,35
+401,0.006393711, Cambodia
+261,0.006362006, ?
+130,0.006245942, Separated
+279,0.005960367, Grandchild 18+ spouse of subfamily RP
+381,0.0059518, Trinadad&Tobago
+468,0.005843432, Trinadad&Tobago
+446,0.005808472, Ecuador
+61,0.005734565,27
+306,0.005722282, Grandchild 18+ ever marr RP of subfamily
+415,0.005647771, China
+504,0.005601463,2
+324,0.005488958, MSA to MSA
+421,0.005421671, Hungary
+230,0.005399857, Kansas
+226,0.005243655, South Dakota
+485,0.005146092, Panama
+236,0.005134296, Illinois
+460,0.005109159, Haiti
+267,0.005102822, Oklahoma
+462,0.005048298, South Korea
+438,0.005024726, ?
+101,0.004928406,1
+463,0.004722415, Iran
+454,0.00468919, Guatemala
+336,0.004676631, Different state same division
+380,0.004675088, Philippines
+499,0.004648362,0
+398,0.004627675, Panama
+390,0.004589698, Yugoslavia
+66,0.004571808,14
+434,0.004527743, Yugoslavia
+372,0.004497913, China
+424,0.004454679, Philippines
+382,0.004428164, Hong Kong
+430,0.004387613, Portugal
+34,0.004355262,24
+492,0.004351781, Ireland
+254,0.004217228, Tennessee
+369,0.004154801, Outlying-U S (Guam USVI etc)
+491,0.004143409, Peru
+397,0.004068162, Italy
+439,0.004062588, Nicaragua
+234,0.004045514, North Carolina
+270,0.00397678, Idaho
+395,0.003942267, Nicaragua
+422,0.003925071, Dominican-Republic
+481,0.003873757, ?
+291,0.003747737, Grandchild 18+ ever marr not in subfamily
+473,0.003737323, Portugal
+365,0.003728004, Cuba
+327,0.003719301, Nonmover
+337,0.003719301, Nonmover
+346,0.003719301, Nonmover
+352,0.003719301, Yes
+482,0.003705526, Hong Kong
+17,0.003660089,17
+354,0.00359733, Not in universe
+363,0.003549433, Father only present
+207,0.003519585, PT for non-econ reasons usually FT
+331,0.003506741, ?
+340,0.003506741, ?
+350,0.003506741, ?
+355,0.003506741, ?
+508,0.003506741,94
+509,0.003506741,95
+10,0.003435026,10
+351,0.003388517, Not in universe under 1 year old
+107,0.003257814,40
+88,0.00322068,20
+250,0.003185138, New Jersey
+364,0.002968706, Hungary
+464,0.002965681, Hungary
+214,0.002957346, Joint one under 65 & one 65+
+276,0.002904222, Child under 18 of RP of unrel subfamily
+453,0.002897385, El-Salvador
+374,0.002892466, Haiti
+456,0.002866791, Holand-Netherlands
+494,0.002827892, Native- Born abroad of American Parent(s)
+301,0.002753593, Other Rel 18+ never marr RP of subfamily
+299,0.002729281, Grandchild 18+ never marr RP of subfamily
+427,0.002717243, Vietnam
+76,0.002712368,34
+451,0.0026883, Cuba
+256,0.002663518, West Virginia
+288,0.002656487, Grandchild <18 never marr child of subfamily RP
+81,0.00262252,33
+455,0.002601237, Outlying-U S (Guam USVI etc)
+252,0.002529705, Colorado
+425,0.002524649, Trinadad&Tobago
+176,0.002513561, Other
+379,0.002511664, Poland
+393,0.002507863, Taiwan
+292,0.002467144, Grandchild <18 never marr not in subfamily
+371,0.002465508, United-States
+419,0.002192512, South Korea
+377,0.002163417, Columbia
+361,0.002143434, Neither parent present
+483,0.002117729, Canada
+414,0.002083593, United-States
+271,0.002007678, Arkansas
+59,0.001856295,46
+149,0.001856295, Forestry and fisheries
+206,0.001842646, PT for econ reasons usually PT
+466,0.001794466, Poland
+328,0.0017225, NonMSA to MSA
+269,0.001722471, Minnesota
+223,0.001699255, Abroad
+339,0.001699255, Abroad
+349,0.001699255, Abroad
+298,0.001671513, Other Rel 18+ ever marr RP of subfamily
+278,0.001642703, Other Rel <18 never marr child of subfamily RP
+447,0.001635762, Laos
+323,0.001599844, Not in universe
+334,0.001599844, Not in universe
+343,0.001599844, Not in universe
+319,0.001579085, Group Quarters- Secondary individual
+118,0.001576592, Associates degree-academic program
+475,0.001537399, Jamaica
+459,0.001457272, Thailand
+429,0.001385305, Mexico
+408,0.001349745, Cuba
+65,0.001342289,39
+376,0.001337899, South Korea
+314,0.001256665, Child under 18 ever married
+476,0.001234452, India
+48,0.001229997,40
+154,0.001229997, Entertainment
+239,0.001178943, Abroad
+49,0.001100779,2
+266,0.000994627, Delaware
+285,0.000952304, Child <18 ever marr not in subfamily
+258,0.000927887, Wyoming
+310,0.000885251, Child <18 ever marr RP of subfamily
+477,0.000864814, Yugoslavia
+465,0.000835842, Dominican-Republic
+387,0.000797637, England
+479,0.000776447, Japan
+332,0.000761917, Different division same region
+293,0.000693212, Grandchild <18 ever marr not in subfamily
+313,0.000650556, Other Rel <18 ever marr RP of subfamily
+215,0.000645913, Joint both 65+
+403,0.000572435, Iran
+260,0.000541777, Oregon
+181,0.000540752, Cuban
+289,0.000425058, Other Rel <18 never marr not in subfamily
+55,0.000417072,4
+142,0.000417072, Construction
+284,0.000409306, Other Rel <18 never married RP of subfamily
+228,0.000386857, Wisconsin
+193,0.000345626, Not in universe
+240,0.000330842, Florida
+404,0.000328253, Laos
+461,0.000326416, Germany
+307,0.000288742, Other Rel <18 spouse of subfamily RP
+378,0.000213001, Dominican-Republic
+290,0.000202251, Child <18 spouse of subfamily RP
+416,0.000200668, Thailand
+58,0.000193891,9
+489,0.000191661, Ecuador
+216,6.16E-05, Single
+257,2.93E-05, New Hampshire
+304,6.60E-06, Child <18 never marr RP of subfamily
+375,3.34E-06, Germany
+286,0, Other Rel <18 ever marr not in subfamily
+302,0, Grandchild <18 never marr RP of subfamily
