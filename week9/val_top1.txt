@@ -1,0 +1,500 @@
+<BOS> she re@@ sted her head on her mother 's shoulder . 她 <UNK> <UNK> 在 她 母親 的 肩上 。 她 把 她 的 她 的 的 的 。 。
+<BOS> he is tall . 他 高 。 他 很 高 。
+<BOS> hurry up , and you will be in time for the bus . 快點 ， 你 就 能 準時 <UNK> 公交車 了 。 快點 ， ， 你 你會 會 去 去 。 。
+<BOS> he 's always at home on sundays . 他 星期日 總是 在家 裡 。 他 星期日 並不總是 在家
+<BOS> i do n't know if i have the time . 我 不 知道 我 有 沒 有 時間 。 我 不 知道 我 是否 有 時間 。
+<BOS> did he go to see mary ? 他 去 <UNK> 了 嗎 ？ 他 去 看 他 嗎 ？
+<BOS> are you planning on eating that all by yourself ? 你 打算 自己 一人 把 它 全部 吃 了 嗎 ？ 你 打算 把 所有 自己 全部 全部 全部 ？ ？
+<BOS> i 'll be absent from home in the afternoon . 下午 我 不 在家 。 我 今天 會 在家 。
+<BOS> my father works at a factory . 我 父親 在 工廠 工作 。 我 父親 在 一家 工廠 。
+<BOS> there 's nothing good on television now . 現在 電視 上 沒 有 甚麼 好看 的 。 現在 還 有 有 的 。 。
+<BOS> we are going to leave tomorrow . 我們 明天 要 離開 。 我們 明天 要 去 。
+<BOS> he took off his over@@ coat . 他 脫 掉 了 大衣 。 他 摘 了 他 的 <UNK> 。
+<BOS> do you really want tom to <UNK> <UNK> ? 你 真想 讓 湯姆 <UNK> 嗎 ？ 你 真的 想 湯姆 <UNK> 嗎 ？
+<BOS> japan produ@@ ces a lot of good camer@@ as . 日本 生產 很多 好 相機 。 日本 <UNK> 了 很多 的 。
+<BOS> tom ab@@ sta@@ ined from vo@@ ting . 湯姆 投票 <UNK> 。 湯姆 <UNK> <UNK> <UNK> <UNK> 。
+<BOS> i suggested that she go alone . 我建議 她 一個 人 去 。 我 希望 她 去 人 。
+<BOS> no , thank you . i 've had enough . 不 ， 謝謝 你 。 我 已經 吃 飽 了 。 不 ， 謝謝 謝謝 你 我 飽 飽 飽 了
+<BOS> i do n't accept it . 我 不 接受 。 我 不 。
+<BOS> i 'm disappointed that i was n't able to go with her . 我 很 失望 我 沒能 和 她 一起 去 。 很 抱歉 我 不想 跟 她 去 。 。
+<BOS> i met him on my way home . 我 在 回家 的 路上 遇見 了 他 。 我 在 路上 路上 路上 他 他 他
+<BOS> tom is now living in boston . 湯姆 現在 住 在 波士頓 。 湯姆 現在 住 在 波士頓 。
+<BOS> i ca n't focus on two things at the same time . 我 不能 同時 注意 <UNK> 事 。 我 <UNK> <UNK> 都 都 。 。
+<BOS> i lost my way in the woods . 我 在 樹林 裏 迷路 了 。 我 在 樹林 裏 迷路 了 。
+<BOS> i 'm taller than you . 我 比 你 高 。 我 比 你 矮 。
+<BOS> without the sun , there would be no life . 沒有 太陽 就 沒 有 生命 。 沒有 <UNK> ， ， 也 。 。 。
+<BOS> she was hit by a car . 她 被 車撞 了 。 她 被 車撞 車撞 了 。
+<BOS> i know how to set a trap . 我 知道 怎麼 <UNK> 陷阱 。 我 知道 怎麼 <UNK> 。
+<BOS> he stuck his pencil behind his ear . 他 把 他 的 鉛筆 放在 他 的 耳朵 後 面 。 他 把 他 的 他 他 他 。 。
+<BOS> you 're making progress . 你 在 進步 。 你 進步 了 。
+<BOS> tom waved his hand . 湯姆 <UNK> 了 。 湯姆 批准 他 的 <UNK> 。 。
+<BOS> is this your car ? 這是 你 的 車嗎 ? 這是 你 的 車 嗎 ？
+<BOS> i have to go home . 我該 回家 了 。 我該 回家 。 。
+<BOS> i worked three years as tom 's assistant . 我 給 湯姆 當 了 三年 助手 。 我 和 湯姆 湯姆 的 。 。
+<BOS> see above . <UNK> <UNK> 。 <UNK> <UNK> 。
+<BOS> boil the water . 把 <UNK> 開 。 把 水 。
+<BOS> that 's the part i liked best . 那 是 我 最 喜歡 的 部分 。 那 是 我 最 的 的 。
+<BOS> nobody knows what will happen in the future . 人 不 知道 未來 可能 發生 什麼 事 。 沒有 人 知道 會 發生 發生 。 。
+<BOS> she stayed in that area for a short while . 她 在 那 地方 待 了 <UNK> 。 她 在 <UNK> <UNK> 等 了 了 。
+<BOS> this gu@@ <UNK> book might be of use to you on your trip . 這本 <UNK> <UNK> 或許 會 對 你 的 旅行 有 幫助 。 你 的 本書 你 你 你 你 的 的 的 。 。
+<BOS> pass me the salt , will you ? 請 把 鹽 遞給 我 ， 好 嗎 ？ 請 把 鹽 遞給 我 嗎 ？
+<BOS> he is getting along with his neighborhood . 他 與 他 的 鄰居 相處 。 他 和 他 的 。 。
+<BOS> almost everyone in our village is related to one another . 我們 <UNK> 所有 的 <UNK> 幾乎 彼此 都 是 親戚 。 從 的 的 的 人 是 是 <UNK> 。 。 。
+<BOS> tom fell into a v@@ at of <UNK> fu@@ ri@@ c ac@@ id . Tom 摔倒 進 <UNK> <UNK> 中 湯姆 在 <UNK> <UNK> <UNK> 。
+<BOS> i support poli@@ tical re@@ form . 我 支持 政治 <UNK> 。 我 <UNK> <UNK> <UNK> 。
+<BOS> she turned down every proposal . 她 拒絕 了 每 一項 提議 。 她 <UNK> <UNK> <UNK> 。 。
+<BOS> this p@@ ear smells nice . 這 <UNK> 上去 <UNK> 。 這個 <UNK> 很 。 。
+<BOS> we 'll ask tom and see what he thinks . 我們 要 問問 湯姆 ， 看看 他 怎麼 想 。 我們 會 問 湯姆 問 他 他 什麼 。
+<BOS> i do n't see much of him . 我 <UNK> 到 他 。 我 沒 他 他 。
+<BOS> she was very proud of her father . 她 為 她 的 父親 感到 非常 驕傲 。 她 爲 她 的 父親 。 羞恥
+<BOS> i 'd like to be a gui@@ tari@@ st . 我 想要 成爲 吉他 手 。 我 成為 一名 <UNK> 。
+<BOS> there is a spoon missing . 少 了 一把 勺子 。 有 一把 缺 。
+<BOS> someone ate all my cu@@ p@@ cakes . 某人 把 我 的 杯 <UNK> 蛋糕 吃 完 了 。 有人 都 都 所有 的 。 。
+<BOS> she was busy with her <UNK> tting . 她 忙 着 <UNK> 。 她 嫁給 上 她 的 。 。
+<BOS> my leg was bi@@ tten by that dog . 我 的 腿 被 那 隻 狗 咬 了 。 我 的 手 被 偷 偷 狗 。
+<BOS> were your mother and father home ? 你 父母 親 在家 嗎 ？ 你 的 媽媽 和 父親 回家 嗎 ？
+<BOS> he does n't speak our language . 他 不會 說 我們 的 語言 。 他 不 知道 我們 的 的 。
+<BOS> i 've found a place to live . 我 找到 了 個 <UNK> 。 我 已經 買 了 <UNK> 的 的 。
+<BOS> does it hurt a lot ? <UNK> 嗎 ? 它 有 了 嗎 ？
+<BOS> she seems to be in love with my brother . 她 似乎 喜歡 上 了 我 哥哥 。 她 看起來 和 我 的 的 。 。
+<BOS> he has just left home . 他 剛 離開 家 。 他 剛剛 回到 了 。
+<BOS> he likes mathematics , but i do n't . 他 喜歡 數學 ， 但 我 不 喜歡 。 他 喜歡 數學 ， 但 我 不 喜歡 。
+<BOS> i think i know who did it . 我 認為 我 知道 是 誰 做 的 。 我 認爲 我 知道 誰 做 的 。
+<BOS> do you need help ? 你 需要 幫助 嗎 ？ 你 需要 幫助 嗎 ？
+<BOS> fresh food is wonderful . 新鮮 的 食物 <UNK> 了 。 新鮮 的 是 <UNK> 的 。
+<BOS> i owe ten dollars to her . 我 欠 她 10 美元 。 我 跟 她 <UNK> 了 了 小時
+<BOS> the teacher po@@ inted her finger at me and asked me to come with her . 教師 用 手指 <UNK> 我 ， 要 我 跟 她 走 。 老師 建議 她 的 我 和 她 她 。
+<BOS> wet clothes stick to your skin . 濕 衣服 <UNK> 你 的 皮膚 。 <UNK> <UNK> <UNK> 你 的 。
+<BOS> they must be waiting for you . 他們 一定 在 等 你 。 他們 一定 正在 等 你 。
+<BOS> she 's on a diet . 她 在 節食 。 她 在 節食 。
+<BOS> tom does everything he can to save money . <UNK> 全力 <UNK> 。 湯姆 知道 他 能 賺 錢 錢
+<BOS> he knows who they are . 他 知道 他們 是 誰 。 他 知道 他們 是 誰 。
+<BOS> i got up early in the morning . 我 早上 很早 起牀 。 我 早上 早起 起牀 。
+<BOS> tom is always watching television . 湯姆 總 是 在 看 電視 。 湯姆 總是 在 看 看 電視 。
+<BOS> i can hear you , but i ca n't see you . 我 聽 得 見 你 ， 但 我 看 不見 你 。 我能 聽 你 你 ， 但 我 我 看 你 。
+<BOS> i 'll lend you my textbook . 我會 借給 你 我 的 <UNK> 。 我會 借給 你 的 的 。 。
+<BOS> tom told mary he could n't do what she asked him to do . 湯姆 告訴 瑪麗 他 不能 做 她 要 他 做 的 事 。 湯姆 訴瑪麗 他 不能 做 他 讓 他 他 做 做 。
+<BOS> tom got ready for bed . 湯姆 準備 睡覺 。 湯姆 準備 準備 了 了 。
+<BOS> what did you major in at college ? 你 <UNK> 主修 什麼 ？ 你 在 <UNK> <UNK> 哪些 ？
+<BOS> tom does n't share mary 's en@@ th@@ u@@ si@@ as@@ m . 湯姆 沒有 感受 到 瑪麗 的 熱情 。 湯姆 不 讓 瑪麗 的 <UNK> 。
+<BOS> i 've been careful my whole life . 我 一生 都 謹慎 <UNK> 。 我 已經 <UNK> 我 的 。 。
+<BOS> how about going to the movies ? 去 看 電影 怎樣 ？ 去 怎樣 怎麼樣 ？
+<BOS> a good idea came to me . 我 有 一個 好 主意 。 我 的 的 的 的 的 的 的 。 。 。 。 。
+<BOS> what were you doing this morning ? 今天 早上 你 在 做 什麼 ？ 你 今天 早上 做 做 什麼 ？
+<BOS> you must pay attention to him . 你 必須 注意 他 。 你 一定 <UNK> 他 他 。
+<BOS> you may depend on him to help you . 你 或許 可以 依靠 他來 幫助 你 。 你 可以 屈服 他 幫助 你 。
+<BOS> over@@ -@@ sleeping is no excuse for being late . 睡 過頭 不是 遲到 的 理由 。 <UNK> <UNK> <UNK> <UNK> 。 。 。
+<BOS> wo@@ w ! it 's been a long time . <UNK> ! 好久 不見 了 。 <UNK> ！ 它 它 很長 時間 。
+<BOS> we receive many telephone calls from abroad . 我們 接到 <UNK> <UNK> 的 電話 。 我們 曾經 <UNK> <UNK> <UNK> <UNK> 。 。
+<BOS> i 'll attend the next meeting . 我會 參加 下次 的 會議 。 我會 出席 會議 。
+<BOS> these tool@@ s are used for building a house . 這些 工具 是 用來 造 房子 的 。 這些 <UNK> <UNK> 造 房子 房子 房子 。
+<BOS> we ha@@ cked a path through the forest . 我們 <UNK> 了 一條 穿過 森林 的 小路 。 我們 在 <UNK> <UNK> 了 了 。
+<BOS> he was in america at that time . 他 當時 在 美國 。 他 當時 在 <UNK> 。 。
+<BOS> all horses are animals , but not all animals are horses . 所有 的 馬 都 是 動物 ， 但 並非 所有 的 動物 都 是 馬 。 所有 所有 都 是 ， ， 但 但 都 都 是 是 。 。 。 。 。 。
+<BOS> i bought it at a department store . 我 在 <UNK> 公司 買 了 它 。 我 買 買 買 買 買 。
+<BOS> i know that you still want to be with me . 我 知道 你 還是 想 跟着 我 。 我 知道 你 不想 和 我 。 。
+<BOS> the weather is good today . 今天 天氣 很 好 。 今天 的 很 。 。
+<BOS> it was very hot this afternoon . 今天 下午 非常 炎熱 。 今天 早上 很 冷 。
+<BOS> i 'd rather walk than take a bus . 我寧願 走路 勝過 搭公車 。 我 <UNK> <UNK> 租 。
+<BOS> join us . 來 加入 我們 吧 。 <UNK> 我們 。
+<BOS> it 's on the tip of my tongue . 它 在 我 的 <UNK> 上 。 我 的 的 的 的 。
+<BOS> it is going to be cold tonight . 今晚 會 很 冷 。 今晚 會 冷 冷 。
+<BOS> there are more girls than boys at our school . 在 我們 <UNK> 女孩 比 男孩 多 。 我們 的 的 有 的 的 。
+<BOS> our music teacher advised me to visit vi@@ en@@ na . 我們 的 音樂 老師 建議 我 去 <UNK> 看看 。 我們 的 老師 讓 我 <UNK> <UNK> <UNK> 。
+<BOS> cooking takes too much time . 做飯 <UNK> 時間 了 。 <UNK> 時間 時間 時間
+<BOS> what did you answer ? 你 回答 了 什麼 ？ 你 買 了 ？
+<BOS> he asked me why i was laughing . 他問 我 為 什麼 在 笑 。 他 問 我 我為 是 誰 。
+<BOS> how about some more <UNK> st beef ? 再 <UNK> 烤 牛肉 怎麼樣 ? <UNK> 更 多 怎麼樣 ？
+<BOS> there was no furniture in that room . 那個 房間裡 沒有 傢俱 。 房間裡 房間裡 沒有 。 。
+<BOS> he made himself heard across the room . 他 讓 對面 的 房間 都 能 聽 到 他 的 聲音 。 他 讓 他們 進 進 房間 房間 。
+<BOS> she left her umbrella in the train . 她 把 她 的 雨傘 留在 火車 上 了 。 她 把 她 在 了 了 。 。
+<BOS> i do n't feel much like talking . 我 <UNK> 說 話 。 我 不想 得 德語 。 。
+<BOS> we should 've studied harder . 我們 本該 更加 努力 學習 。 我們 應該 更 努力 努力 。
+<BOS> i prefer to remain sea@@ ted . 我 更 想 繼續 坐 著 。 我 喜歡 <UNK> 飛機 。
+<BOS> i go to bed after i study . 我讀 <UNK> 之 後 就 去 睡覺 。 我 去 去 我 去 去 。 。
+<BOS> orange juice , please . 柳 橙汁 ， 麻煩 你 。 請 <UNK> 。
+<BOS> my mother made me a white dress . 我媽媽 為 我 做 了 一件 白色 的 洋裝 。 我媽媽 做 我 了 新 裙子 衣服 給我
+<BOS> at last , he came . 最終 ， 他來 了 。 每次 開始 他 了 了 。
+<BOS> it 's likely to snow this evening . 今天 晚上 可能 會 下雪 。 今天 晚上 會 很 。
+<BOS> the man you saw yesterday was my uncle . 你 昨天 看到 的 那個 男人 是 我 叔叔 。 你 昨天 看 的 男人 是 我 的 。 。
+<BOS> he 's started looking for a job . 他 開始 找 工作 了 。 他 正在 找 找 工作 工作 工作
+<BOS> tom is n't nearly as smart as he thinks he is . 湯姆 並 不 像 他 自 認爲 的 那麼 聰明 。 湯姆 沒 他 他 同年 一樣 。
+<BOS> they made us work all night . 他們 要 我們 整夜 工作 。 他們 讓 我們 了 一整天 一整天 。
+<BOS> i ran away in a hurry . 我 趕快 跑 走 了 。 我 在 <UNK> 了 了 。
+<BOS> tom 's eyes were glu@@ ed to the scre@@ en . Tom 的 眼睛 被 <UNK> 吸引 住 了 。 湯姆 的 <UNK> 被 <UNK> <UNK> 。
+<BOS> i want him to read this . 想 讓 他 讀 這個 。 我 想 他 <UNK> 這個 。
+<BOS> i need to take a shower . 我 需要 洗個 澡 。 我 需要 洗個 澡 。
+<BOS> i went without food for a week . 我 一 星期 沒帶 食物 去 。 除了 星期天 去 去 去 了 。
+<BOS> you seem like a very smart person . 你 看起來 像 一個 <UNK> 。 你 看起來 像 個 很 的 。 。
+<BOS> call the police ! 叫 警察 ！ 報警 ！
+<BOS> we got to the station at six . 我們 六點 鐘到 了 車站 。 我們 在 鐘到 車站 車站 。
+<BOS> we 're out of tis@@ sue paper , so i 've got to go buy some . <UNK> <UNK> 完 了 ， 我 必須 去 買 。 我們 已經 完 了 ， 我 必須 去 買 。
+<BOS> my head is explo@@ ding . 我 的 <UNK> 炸 了 。 我 的 <UNK> 是 <UNK> 。
+<BOS> he cured my illness . 我 的 病 給 <UNK> 了 。 他 把 我 的 。 。
+<BOS> did tom use to be a teacher ? 湯姆 以前 是 教師 嗎 ？ 湯姆 想 成爲 一名 嗎 ？
+<BOS> i 'd like to go abroad one day . 我 想 有 一天 去 國外 。 我 想 我 去 。 。
+<BOS> you need to let me handle this . 你 要 讓 我 來 解決 。 你 需要 讓 我 說明 這事 。
+<BOS> i get de@@ pressed by the slightest things . 我 為 小 事情 覺得 <UNK> 。 我 <UNK> <UNK> 的 感到 感到 。
+<BOS> come on . i want to show you something . 來 吧 。 我 想 讓 你 看點 東西 。 進來 吧 ， 我 想 你 東西 東西
+<BOS> i 'm buying a new car . 我 在 買 一輛 新車 。 我 正在 一部 新車 。
+<BOS> i stood waiting for a bus . 我 站 著 等 公車 。 我 等 等 等 。 。
+<BOS> he crashed his car because someone ta@@ m@@ per@@ ed with the bra@@ kes . 他 <UNK> 是因爲 有人 在 剎車 上 做 了 <UNK> 。 他 把 他 的 <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 。 。
+<BOS> the soccer game is tomorrow . 明天 有 足球 比賽 。 明天 <UNK> <UNK> 。 。
+<BOS> i 'll show you my room . 我會 帶 你 看看 我 的 房間 。 我會 幫 你 的 的 房間 。
+<BOS> i 've got to try to find tom . 我 試圖 找到 Tom 。 我 得 <UNK> 找 湯姆 。
+<BOS> tom said he was n't ready , but mary said she was . 湯姆 說 他 沒 準備 好 ， 但 瑪麗 說 她 準備 好 了 。 湯姆 說 他 不 了 ， 但 她 她 。 。
+<BOS> i consider you one of my close@@ st friends . 我 把 你 <UNK> 我 <UNK> 好 的 朋友 之一 。 我 你 我 我 朋友 朋友 朋友 朋友 。
+<BOS> i ca n't do without her help . 沒有 她 的 幫助 我 做 不到 。 除非 她 的 也 也 也 。 。
+<BOS> my aunt made a new skirt for me . 我 嬸 嬸 做 了 一條 新 裙子 給我 。 我 的 做 了 一條 裙子 裙子 給我 。
+<BOS> i did n't know she was married . 我 不 知道 她 結婚 了 。 我 不 知道 她 是 結婚 。
+<BOS> tom wo n't know what to do . 湯姆不會 知道 要 做 甚麼 。 湯姆 不 知道 該 該 做 。
+<BOS> i 'll show you to the station . 我會 告訴 你 去 車站 的 路 。 我會 帶 你 去 車站 。
+<BOS> i 've heard you 've been sick . 我 聽說 你 病 了 。 我 聽說 你 被 偷 了 。
+<BOS> the man finally confessed . 那個 男人 最終 <UNK> 了 他 的 罪行 。 這名 男人 搶 了 了 。
+<BOS> his parents took him for a walk . 他 的 父母 帶 他 去 散步 。 他 的 父母 叫 他 去 。
+<BOS> he is old enough to understand it . 他 已 經到 了 能 瞭解 它 的 年紀 。 他 年 大 大 大 瞭解 它 。
+<BOS> she made fun of her husband . 她 取笑 了 她 的 丈夫 。 她 好好 <UNK> 她 的 的 。
+<BOS> i began running . 我 開始 跑 。 我 看 了 。
+<BOS> he always mistakes me for my sister . 他 老 是 把 我 和 我 姐姐 <UNK> 。 他 總 是 我 我 我 的 喜歡 。
+<BOS> do n't worry . 別 擔心 。 不要 擔心 。
+<BOS> it 's a good thing to read good books when you are young . 年輕 的 時候 多 看點 <UNK> 是 件 好事 。 你 的 的 時候 你 你 的 的 的 。 。
+<BOS> chocolate has more iron than spinach . 巧克力 含有 比 菠菜 更 多 的 <UNK> 。 巧克力 的 比 比 菠菜 多 多 。
+<BOS> take me home . 帶 我 回家 。 我會 我 回家 。
+<BOS> i have something to give you . 我 有些 東西 要 給 你 。 我 有事 想要 你 。 。
+<BOS> tom is n't a good worker . 湯姆 不是 個 好 工人 。 湯姆 不是 好人 。 。
+<BOS> do n't bu@@ g me . 別來 煩 我 。 別 <UNK> 我 我 。
+<BOS> what 's with you ? 你 怎麼 了 ？ 你 怎麼 ？
+<BOS> please wait till he comes back . 請 等到 他 回來 。 請 等 他 他 回來 。
+<BOS> i 've been spending too much time with tom . 我 在 湯姆 身上 花 的 時間 太多 了 。 我 不再 湯姆 太 多 。
+<BOS> do n't laugh at him for making a mistake . 不要 笑 他 犯 了 錯誤 。 不要 <UNK> 他 他 他 他 。 。 。 。
+<BOS> do you want anything to eat ? 你 想要 吃 任何 東西 嗎 ? 你 想 吃 點 東西 嗎 ？
+<BOS> playing tennis is fun . 打 網球 很 有趣 。 打 網球 很 。
+<BOS> i left earlier than my sister . 我 比 我 的 妹妹 <UNK> 。 我 比 我 妹妹 妹妹 努力 。
+<BOS> tom came to boston three years ago . 湯姆 三年 前去 了 波士頓 。 湯姆 三年 三年 了 波士頓 。
+<BOS> is everything going ok at work ? 工作 一切 順利 嗎 ？ 怎麼辦 工作 工作 嗎 ？
+<BOS> they have the same habits . 他們 有 相同 的 嗜好 。 他們 有 像 相同 的 。
+<BOS> we 've already won this battle . 我們 已經 贏得 了 這場 戰鬥 。 我們 已經 <UNK> 了 了 。
+<BOS> i want your opinion . 我 想要 聽 聽 你 的 意見 。 我 想要 你 的 。
+<BOS> can i have something to eat ? 我 <UNK> 吃 的 東西 嗎 ？ 我 可以 吃 點 東西 ？
+<BOS> she has already left the office . 她 已 <UNK> 了 辦公室 。 她 已經 離開 了 了 。
+<BOS> tom knows mary was here . 湯姆 知道 瑪麗 在 這裡 。 湯姆 知道 瑪麗 在 這裡 這裡
+<BOS> none of those books are useful . 這些 <UNK> 沒有 一本 是 有用 的 。 這些 書 都 其中 。
+<BOS> tom has a big appetite . 湯姆 <UNK> 很大 。 湯姆 有 <UNK> 。
+<BOS> have you all eaten ? 你們 吃 飯 了 嗎 ？ 你 吃 吃 嗎 嗎 ？
+<BOS> are you a student of a private high school ? 你 在 私立 高中 讀書 嗎 ？ 你 是 學生 高中 學生 嗎 ？
+<BOS> it 's my birthday soon . 我 的 生日 就 快 到 了 。 它 是 我 的 的 。
+<BOS> it 's going to rain soon . 天 快要 下雨 了 。 很快 快要 下雨 了 。
+<BOS> there is an orange on the table . 桌上 有 一隻 橙子 。 桌上 有個 蘋果 。
+<BOS> i did n't mean to be <UNK> fish . <UNK> 不是 我 的 <UNK> 。 我 不是 有意 <UNK> 。
+<BOS> i 'd like to get married to someone like you . 我 想 跟 你 這樣 的 人 結婚 。 我 想 和 你 你 你 。
+<BOS> are you coming next week ? 你 下 <UNK> 嗎 ？ 你 明天 要 離開 嗎 ？
+<BOS> she climbed down from the roof . 她 從 屋頂 上 下來 了 。 她 從 <UNK> 了 了 了 下來 。
+<BOS> i often eat chicken . 我 經常 吃 雞 。 我 常常 吃 蘋果 。
+<BOS> what 's the weather like ? 天氣 怎麼樣 ？ 天氣 怎麼樣 怎麼樣 ？
+<BOS> she was advised by him to go to the police . 他 勸 她 去 報警 。 她 <UNK> 他 他 去 。
+<BOS> my grandmother ca n't see very well . 我 的 祖母 無法 看 得 很 清楚 。 我 的 <UNK> 不太好 得 很 。
+<BOS> why do you want to become a nurse ? 你 爲什麼 想 成爲 護士 呢 ？ 你 為 想到 成爲 成爲 演員 ？
+<BOS> she is about my age . 她 大約 跟 我 同年 紀 。 她 和 我 的 。 。
+<BOS> do n't let tom die . 別 讓 湯姆死 了 。 別 讓 湯姆 走 了
+<BOS> you 'll soon get accustomed to this cold weather . 你 很快 就會 習慣 這種 <UNK> 氣 。 你 很快 就 <UNK> <UNK> <UNK> 。 。
+<BOS> taking off is easier than landing . 起飛 比 降落 容易 。 <UNK> <UNK> <UNK> <UNK> 。 。
+<BOS> this textbook is written in simple english . 這本 <UNK> 是 用 簡單 的 英語 寫 的 。 這張 歌曲 是 精通 英語 。
+<BOS> have you ever seen him swimming ? 你 曾 看過 他 游泳 嗎 ？ 你 有 過 過 他 嗎 嗎 ？
+<BOS> this is the lady who wants to see you . 這位 就是 誰 想 見 你 的 <UNK> 。 這 是 想見 見到 你 。
+<BOS> there is little chance of his winning . <UNK> 的 <UNK> 小 。 他 的 的 。 。
+<BOS> tom ca n't tie a tie . 湯姆 不會 <UNK> 領帶 。 湯姆 不能 不起 。
+<BOS> this ven@@ ding machine is n't working . 這臺 自動 <UNK> 故障 了 。 這個 <UNK> 不 。 。
+<BOS> i 'm not very particular about food . 我 對 食物 不是 很 <UNK> 。 我 根本 太 太 的 。
+<BOS> tom is perfect , is n't he ? 湯姆 是 完美 的 ， 不是 麼 ？ 湯姆 很 胖 ， 不是 麼 ？
+<BOS> i guess most of them went home . 我 猜 他們 大多 <UNK> 回家 了 。 我 本該 他們 他們 學校 去 。
+<BOS> she will ac@@ company me on the piano . 她 <UNK> 鋼琴 為 我 伴奏 。 她 在 <UNK> <UNK> 。 。
+<BOS> a d@@ na test showed he was innocent . <UNK> <UNK> 表明 ， 他 是 無辜 的 。 雖然 <UNK> <UNK> 他 了 。
+<BOS> not everybody can be an artist . 不是 所有人 都 能 當 藝術家 的 。 不是 每個 人 都 都 成爲 。
+<BOS> co@@ sme@@ tic sur@@ ger@@ y is not covered by most insurance plans . 大部份 的 保險 計劃 不 包含 <UNK> 手術 。 <UNK> <UNK> <UNK> <UNK> <UNK> 。 。
+<BOS> how long did it take you to finish reading that book ? 你 看 完 <UNK> 多少 時間 ？ 你 讀 這本書 這本書 這本書 時間 ？
+<BOS> do you need to work on sunday ? 你 週日 需要 去 工作 嗎 ？ 你 每天 在 工作 工作 ？
+<BOS> could you help me translate this into french ? 你 能 幫 我 把 這 <UNK> 法語 嗎 ？ 你 能 幫 我 看看 這個 <UNK> 嗎 嗎 ？
+<BOS> the soldiers occupied the building . 士兵 們 <UNK> 了 這個 建築 。 <UNK> <UNK> 了 池塘 。
+<BOS> the tiger cu@@ b looked like a large ki@@ tten . 小 老虎 看起 來 像 隻 <UNK> 。 <UNK> <UNK> <UNK> 像 像 <UNK> <UNK> 。
+<BOS> i like your car . 我 喜歡 您 的 車 。 我 喜歡 你 的 車 。
+<BOS> i solved the problem easily . 我 很 容易 <UNK> 了 這個 問題 。 我 <UNK> 這個 問題 。
+<BOS> tom is really handsome . 湯姆 <UNK> 。 湯姆 很 生氣 。
+<BOS> he whi@@ st@@ led as he walked . <UNK> 走邊 吹 <UNK> 。 他 表現 他 <UNK> <UNK> 。 。 。
+<BOS> tom is a good person . 湯姆 是 個 好人 。 湯姆 是 個 好人 。
+<BOS> i want tom to win . 我 想 讓 湯姆 贏 。 我 想 湯姆 <UNK> 。
+<BOS> she 's really smart , is n't she ? 她 真的 很 聰明 ， 不是 嗎 ？ 她 很 胖 ， 不是 麼 ？
+<BOS> that 's a nice tie you 're wearing . 你 打 了 一條 不錯 的 領帶 。 你 是 你 的 的 的 。
+<BOS> he is glad to hear the news . 他 很 高興 聽 到 這個 消息 。 他 很 說 消息 消息 。
+<BOS> tom did n't buy any bread . 湯姆 沒 有 買 甚麼 麵 包 。 湯姆 沒有 買 吃 。
+<BOS> can i have a bite ? 我 可以 吃 一口 嗎 ？ 我能 有 嗎 嗎 ？
+<BOS> tom did n't want to do that . 湯姆 不想 去 做 那件 事 。 湯姆 不想 做 這事
+<BOS> do you know the answer ? 你 知道 答案 嗎 ? 你 知道 問題 嗎 嗎 ？
+<BOS> he is rich@@ er than anyone else in this town . 他 比 <UNK> 的 其他人 都 有錢 。 他 在 <UNK> 任何 任何 <UNK> 。 。
+<BOS> you 've been late for school more often than before . 你 比 以前 更 容易 上課 遲到 了 。 你 從 <UNK> <UNK> 開始 <UNK> 。 。
+<BOS> i had a pleasant dream last night . 我 昨晚 作 了 一個 好 夢 。 我 昨晚 做 了 一個 的 的 夢 。
+<BOS> they 're afraid of us . 他們 害怕 我們 。 他們 怕 我們 。
+<BOS> please tell me everything 's ok . 請 告訴 我 一切 都 好 。 請 告訴 我 所有 的 的 。
+<BOS> the picture is nice . <UNK> 不錯 。 <UNK> 很 美味 。
+<BOS> take care of yourself . 照顧 好 自己 。 照顧 你 自己 。
+<BOS> it 's impossible to get there by noon . 中午 到 達 那裡 是 不 可能 的 。 在 可能 會 會 它 的 。
+<BOS> i 'm tired of translating . 我 厭倦 了 翻譯 。 我 厭倦 了 。
+<BOS> she still has n't heard this news . 她 還 沒 聽到 這個 消息 。 她 還 沒 聽 那個 消息
+<BOS> mary is going to help us tomorrow . 瑪麗 明天 <UNK> 我們 。 瑪麗 明天 會來 幫 我們 。
+<BOS> can you free@@ ze it ? 你 能 <UNK> 它 嗎 ？ 你 能 <UNK> 嗎 嗎 ？
+<BOS> my father got married in his twenties . 我 父親 在 他 <UNK> 歲 時 結婚 了 。 我 父親 父親 在 <UNK> 歲 了 了 。
+<BOS> i 've seen it . 我見過 。 我 已經 它 它 。
+<BOS> could you call a doctor , please ? 你 能 請 個 醫生 來 嗎 ？ 請 你 你 叫 我 嗎 ？ ？
+<BOS> i 'm at work now , so i 'll call you later . 我 現在 在 上班 ， 所以 <UNK> 打 給 你 。 我現 在 在 了 ， 我 我 我 你 你 你
+<BOS> i can read german , but i ca n't speak it . 我能 看 德語 ， 但是 不能 說 。 我能 說 中文 ， 但 我 不能 說 。
+<BOS> they do n't have to know . 他們 不 需要 知道 。 他們 沒 知道 知道 。
+<BOS> how did you meet tom ? 你 是 怎麼 見 到 湯姆 的 ？ 你 怎麼 告訴 湯姆 了 ？
+<BOS> what do you usually do after dinner ? 你 通常 晚飯 後 做 什麼 ? 你 放學 後 吃 什麼 ？
+<BOS> he plays baseball tomorrow . 他 明天 <UNK> 棒球 。 他 明天 打 棒球 。
+<BOS> do you love music ? 你 愛 音樂 嗎 ？ 你 相信 音樂 嗎 ？
+<BOS> he greeted the lady . 他 向 那位 女士 問好 。 他 把 了 了 。
+<BOS> i admire you . 我 欣賞 你 。 我 <UNK> 你 。
+<BOS> she disappeared . 她 消失 了 。 她 笑 了 。
+<BOS> do n't try to stop me . 別想 阻止 我 。 別 別 阻止 我 。
+<BOS> i know her address . 我 知道 她 的 地址 。 我 知道 她 地址 。
+<BOS> i am a student , but he is n't . 我 是 個 學生 ， 但 他 不是 。 我 是 演員 ， 但 他 不是 。 。
+<BOS> i 'm a good guy . 我 是 一個 好人 。 我 是 個 好人 。 。
+<BOS> she did n't have any <UNK> ls . 她 一支 鉛筆 也 沒有 。 她 沒有 有票 。 。
+<BOS> red is out of fashion . 紅色 不 流行 了 。 <UNK> 過時 了 。
+<BOS> she got first prize in the eating con@@ test . 她 在 吃 東西 比賽 裏 得 了 <UNK> 。 她 在 <UNK> <UNK> <UNK> 了 了 。
+<BOS> tom loves flowers . <UNK> 愛 <UNK> 。 湯姆 喜歡 。
+<BOS> our school is fifty years old . 我們 學校 有 <UNK> 的 歷史 了 。 我們 學校 是 歲 歲 歲 。
+<BOS> i 'm very tired right now . 我現 在 很 累 。 我 現在 很 累 。
+<BOS> three cu@@ bed is twenty-@@ seven . 三 的 <UNK> 是 <UNK> 。 <UNK> <UNK> <UNK> 。 。
+<BOS> i can help you , too . 我 也 能 幫 你 。 我 也 幫 你 你 。
+<BOS> do you have a driver 's license ? 你 有 駕駛 執照 嗎 ？ 你 有 駕駛 執照 嗎 ？
+<BOS> i am coming . 我來 了 。 我 <UNK> 。
+<BOS> could you please au@@ to@@ <UNK> this book ? 請 你 在 這本書 上 簽名 好 嗎 ？ 請 你 把 這本書 簽名 簽名 ？
+<BOS> the japanese have dark eyes . 日本 人有 黑色 的 眼睛 。 這個 <UNK> <UNK> <UNK> 的 。
+<BOS> has n't tom told you anything ? 湯姆 什麼 都 沒 告訴 你 嗎 ？ 湯姆 沒 告訴 你 什麼 嗎 嗎 ？
+<BOS> this is quite good . <UNK> 好 。 這 很 。
+<BOS> should n't you be studying ? 你 不 應該 在 學習 嗎 ？ 你 不應 是 讀書 嗎 ？
+<BOS> may i borrow your knife ? 我能 借 一下 你 的 刀 嗎 ？ 我能 借 一下 你 你 的 鉛筆 ？
+<BOS> she was amazed to hear the news . 她 聽到 那個 消息 後 驚呆 了 。 她 聽到 那個 消息 消息 。
+<BOS> i did n't study at all yesterday . 我 昨天 都 <UNK> 書 。 我 昨天 沒 都 。 。
+<BOS> he got off the bus . 他 下 了 公車 。 他 乘 了 了 。
+<BOS> they 're trying to control you . 他們 設法 控制 你 。 他們 準備 <UNK> 你 。
+<BOS> fish can not live out of water . <UNK> <UNK> 就 無法 生存 。 <UNK> 不能 <UNK> 水 。
+<BOS> i have an urgent message from tom . 我 收到 湯姆 的 一條 緊急 消息 。 我 身上 湯姆 <UNK> 。
+<BOS> he 's gone to nagoya on business . 他 <UNK> 出差 到 名古屋 。 他 去 英國 出差 。
+<BOS> it is difficult for me to answer the question . 這個 問題 對 我 <UNK> 很難 回答 。 我 對 回答 問題 。 。 。
+<BOS> i 'm not sure what i was thinking . 我 不 確定 當時 我 正在 想 什麼 。 我 不 確定 我 在 做 。
+<BOS> why did you not tell me the truth ? 爲什麼 你 不 告訴 我 真相 ？ 你 為 甚麼 不會 告訴 真相 真相 ？
+<BOS> i like potatoes . 我 喜歡 土豆 。 我 喜歡 電影 。
+<BOS> e@@ in@@ ste@@ in loved playing the violin . <UNK> <UNK> 喜歡 拉 小提琴 。 <UNK> <UNK> <UNK> <UNK> <UNK> 。
+<BOS> that 's an interesting piece of information . 這 是 <UNK> 有趣 的 信息 。 那 是 一種 的 的 的 。 。
+<BOS> i do n't want to go alone . 我 不想 獨自 前往 。 我 不想 獨自 去 。
+<BOS> i have two cars . 我 有 兩輛 車 。 我 有 兩個 。 。
+<BOS> they did n't act quickly . 他們 沒有 立刻 行動 。 他們 沒 <UNK> 。
+<BOS> sorry to be late . 對 不起 我 來 晚 了 。 <UNK> 遲到 了
+<BOS> there 's nothing else we can do . 沒有 我們 能 還 做 的 事 。 沒有 我們 能 做 的 。
+<BOS> my father lives in the country . 我父 <UNK> 在 鄉 下 。 我 爸爸 住 在 醫院 。
+<BOS> would you like tea or coffee ? 您 想要 茶 還是 咖啡 ？ 你 想 再 喝點 咖啡 嗎 ？
+<BOS> the boy eats bread . 這個 男孩 吃 麵 包 。 這個 男孩 <UNK> 了 。 。
+<BOS> what 's tom given us ? 湯姆 給 了 我們 什麼 ？ 湯姆 為 我們 什麼 什麼 ？
+<BOS> let 's do it another time . <UNK> 再 說 吧 。 讓 再 吧 吧
+<BOS> would you like to go abroad ? 你 想 出國 嗎 ? 你 想 去 韓國 嗎 ？
+<BOS> he 's staying at his aunt 's . 他 呆 在 他 阿姨 家 。 他 在 他 他 的 的 。
+<BOS> believe it or not , she has three children . 她 有 三個 孩子 ， <UNK> 由 你 。 不管 這 ， ， 她 有 孩子 孩子 孩子
+<BOS> tom sat at his desk working . 湯姆 在 他 的 <UNK> 工作 。 湯姆 坐在 他 的 在 。 。 。
+<BOS> tom is the only boy in our class . 湯姆是 我們 <UNK> 唯一 的 男孩 。 湯姆 是 他們 的 的 的 。
+<BOS> we de@@ fea@@ ted the enemy . 我們 <UNK> 了 敵人 。 我們 <UNK> <UNK> 。
+<BOS> you can see a lot of stars in the sky . 你 能 看到 天空 中 的 <UNK> 。 你 可以 在 很多 很多 。 。
+<BOS> you should be able to man@@ age it . 你 應該 能 解決 。 你 應該 能 照顧 。 。
+<BOS> do you have any japanese magazines ? 你 有 任何 日本 雜誌 嗎 ？ 你 有 任何 <UNK> 嗎 嗎 ？
+<BOS> he said that he gets up at 6 o'clock every day . 他 說 他 每天 早上 六點 起牀 。 他 說 每天 每天 早上 。 。
+<BOS> the couple is walking hand in hand . 這對 <UNK> 手 <UNK> 走路 。 <UNK> <UNK> <UNK> <UNK> 。
+<BOS> he participated in the de@@ ba@@ te . 他 參加 <UNK> 他 在 <UNK> <UNK> 。 。
+<BOS> where 's my father ? 我 父親 在 哪裏 ？ 我 的 父親 在 ？
+<BOS> i think i 'll stay . <UNK> 我會 留下 。 我 認爲 我會 待 日本 。
+<BOS> we had a heavy fro@@ st this morning . 今天 早上 天氣 <UNK> 。 今天 早上 早上 <UNK> 。
+<BOS> rome was not built in a day . 羅馬 不是 一天 <UNK> 的 。 羅馬 不是 一天 都 。 。
+<BOS> it 's so hard . 太難 了 。 它 很 。 。
+<BOS> she lost her way and on top of that it began to rain . 她 迷路 了 ， <UNK> 天 開始 下雨 了 。 她 把 她 的 的 <UNK> <UNK> 它 它 它 了 了 了 了 了 了 了 了 了 了 了 了 了 了 了 了 了 了 了 了 了 了 了 了 了 了 。 了 了 了 了 了 了 。 了 了 了 了 了
+<BOS> wood burns . <UNK> 燃燒 。 <UNK> 點 。
+<BOS> the boy made fun of the girl . 這個 男孩 取笑 了 這個 女孩 。 這個 男孩 <UNK> 了 這個 小女孩 。 。
+<BOS> he lives in that house over there . 他 住 在 那邊 的 <UNK> 房子 。 他 住 在 房子 附近 房子 房子 。
+<BOS> he 's always worrying about his daughter . 他 一直 很 擔心 他 的 女兒 。 他 總 是 像 他 的 的 。
+<BOS> he came to see you yesterday . 他 昨天 來 看 你 。 他 昨天 來 見 你 。
+<BOS> my room is three times as large as yours . 我 的 房間 是 你 的 三倍 大 。 我 的 房間 比 你 大 兩歲 。
+<BOS> break it up ! <UNK> ！ <UNK> 它 ！
+<BOS> what was that meeting about ? <UNK> 會議 主題 是 什麼 ？ 這條 河 什麼 什麼 ？
+<BOS> he retired at the age of 6@@ 5 . 他 <UNK> 歲 <UNK> 了 休 。 他 在 <UNK> <UNK> 了 了
+<BOS> listen to this . 聽 聽 這個 。 聽 那個 。
+<BOS> i have nothing to say . 我 沒什麼 <UNK> 的 。 我 沒什麼 說 說 。 。
+<BOS> this really is great weather . 這 真的 是 個 好 天氣 。 這個 真 很 。
+<BOS> that child may have been <UNK> na@@ pped on his way home . 那個 孩子 可能 在 回家 的 路上 被 <UNK> 了 。 那 孩子 可能 <UNK> 在 <UNK> <UNK> <UNK> <UNK> 。
+<BOS> this book is quite difficult . 這 本書 很 難讀 。 這本書 很 困難 。
+<BOS> keep your mouth shut and your eyes open . 閉嘴 看着 。 把 你 的 的 和 的 的 。 。
+<BOS> i 'm free tonight . 我 今晚 有空 。 我 今晚 有空 。
+<BOS> i should be ready by 2:30 . 我 應該 在 2 ： 30 準備 好 。 我該 應該 應該 <UNK> 。 。
+<BOS> the boy enjoyed painting a picture . 這個 男孩 喜歡 <UNK> 。 這個 男孩 <UNK> 了 了 一支 。 。
+<BOS> the best way to lose weight is to eat less and exercise more . 最好 的 減肥 方法 就是 少 吃 多 運動 。 有些 <UNK> 的 <UNK> <UNK> 多 多 多 多 。
+<BOS> what 's the weather like there ? 那兒 是 什麼 天氣 ？ 那裏 天氣 發生 什麼 ？
+<BOS> wake me up early tomorrow morning . 明天 早上 早點 叫醒 我 。 早上 早上 我會 我會 我 我
+<BOS> there 's a big fly on the ceiling . 有 一 隻 大 蒼蠅 在 天花板 上 。 桌上 有個 有 <UNK> 。 。
+<BOS> she married him for his money . 她 爲了 他 的 錢 嫁 給 了 他 。 她 向 他 他 他 他 。 。
+<BOS> money makes the world go round . 金錢 萬能 。 金錢 把 世界 <UNK> 。
+<BOS> be nice to others . 對 他人 要 友善 。 <UNK> 你 <UNK> 。
+<BOS> how long did that take ? 那 持續 了 多久 了 ？ <UNK> 多長 時間 ？
+<BOS> where can i find too@@ th@@ pa@@ <UNK> ? 在 哪兒 我能 找到 <UNK> ？ 我 在 哪兒 <UNK> <UNK> <UNK> ？
+<BOS> tom should n't have been here today . Tom 今天 不該 在 這 。 湯姆 今天 不應 應該 這裡 這裡 。
+<BOS> help yourself to a piece of cake . 你們 自己 吃 蛋糕 。 隨意 蛋糕 一杯 。
+<BOS> i helped my father wash his car . 我 幫 我 父親 洗 他 的車 。 我 幫 我 父親 <UNK> 他 的車 車 。
+<BOS> he com@@ manded me to leave the room immediately . 他 命令 我 立刻 離開 這個 房間 。 他 把 我 進 房間 房間 。
+<BOS> i like your room . 我 喜歡 你 的 房間 。 我 喜歡 你 的 房間 。
+<BOS> do you live here ? 你 住 這裡 嗎 ? 你 住 在 這裏 嗎 ？
+<BOS> i really have to go . 我 真的 得 走 了 。 我 真的 得 去 。
+<BOS> what time do you start work ? 你 什麼 時候 開始 工作 ? 你 時候 工作 ？
+<BOS> the bus stop is near our school . 巴士 站 離 我們 的 學校 近 。 巴士 在 我們 的 學校 。
+<BOS> we know . 我們 知道 。 我們 知道 。
+<BOS> i was afraid i 'd be late . 我怕 我會 遲到 。 能夠 ， 我會 遲到 。
+<BOS> if i were healthy , i would be happy . 如果 我 很 健康 ， 我會 很快 樂 。 我 很 了 ， 我 就 高興 。
+<BOS> tom was admi@@ ring my new car at the time the truck crashed into it . 在 <UNK> 我 的 新車 的 同時 ， 一輛 卡車 撞 了 過來 。 湯姆 在 <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 。 。
+<BOS> i have no idea what i 'm going to wear . 我 不 知道 穿 甚麼 好 。 我 不 知道 我 要 了 。
+<BOS> he kept his promise and helped his brothers . 他 履行 了 他 的 承諾 ， 並且 幫助 了 他 的 兄弟 。 他 把 他 的 臉 和 他 他 他 他 。 。
+<BOS> i made it myself . 我 自己 做 的 。 我 自己 自己 。
+<BOS> it 's i@@ l@@ le@@ ga@@ l to park your car here . 把 車停 在 這裡 是 違法 的 。 在 這裏 你 你 你 你 。 。 。
+<BOS> i plan to buy him a pen . 我 打算 給他 買 一支 鋼筆 。 我 <UNK> 買 他 。 。
+<BOS> his words gave me hope . 他 的 <UNK> 了 我 希望 。 他 的 建議 給 我 我 。
+<BOS> she must have studied very hard . 她 一定 很 用功 讀書 。 她 一定 得 得 努力 。
+<BOS> my mother is a very good cook . 我媽媽 的 廚藝 很 好 。 我媽媽 是 個 很 的 。 。
+<BOS> the news made her sad . 這個 消息 讓 她 很 傷心 。 這個 消息 讓 她 她 的 。
+<BOS> i do n't think that it 's going to be easy to find tom . 我 認爲 ， 要 找到 湯姆 可不 容易 。 我 認爲 認爲 這麼 跟 湯姆 湯姆 的 。
+<BOS> it 'll rain soon . 天 快要 下雨 了 。 春天 很快 下雨 。
+<BOS> do n't talk ru@@ b@@ bi@@ sh . 別 胡說 。 不要 <UNK> <UNK> 。
+<BOS> would you care for another glass of beer ? 再來 一杯 啤酒 怎麼樣 ？ 你 想 再 再 再 一杯 咖啡 ？
+<BOS> tom gave mary the cold shoulder . 湯姆 給 瑪麗 冷 的 肩膀 。 湯姆 給 瑪麗 <UNK> 。
+<BOS> the man is wanted for murder . 這人 <UNK> 殺 被 <UNK> 。 這個 男人 正在 尋找 穿 的 。
+<BOS> she came into the room . 她 進 了 房間 。 她 <UNK> 進 房間 。
+<BOS> she is busy preparing for the trip . 她 正忙 著 準備 這次 旅行 。 她 正在 派 <UNK> 。
+<BOS> tom is unlikely to do that again . 湯姆 不 太 可能 再 那麼 做 了 。 湯姆 很 再 再 做 。
+<BOS> he seems to be ill . 他 好像 病 了 。 他 看起來 是 了 。
+<BOS> i 'm not too smart . 我 <UNK> 。 我 不 <UNK> 。
+<BOS> tell tom what you heard . 把 你 聽到 的 告訴 湯姆 。 告訴 湯姆 你 說 什麼 。
+<BOS> the flood caused a lot of dama@@ ge . 洪水 造成 了 很大 的 <UNK> 。 這場 <UNK> 了 很多 <UNK> 。
+<BOS> where 's the close@@ st p@@ har@@ macy ? 最近 的 <UNK> 在 哪裡 ? 最近 的 <UNK> 在 ？
+<BOS> i do n't want to work under these conditions . 我 不想 在 這些 <UNK> 下 工作 。 我 不想 <UNK> <UNK> 。
+<BOS> turn the key to the right . <UNK> 轉動 鑰匙 。 把 <UNK> <UNK> 。
+<BOS> you do n't need to study today . 你 今天 不必 讀書 。 你 今天 不必 讀書 。
+<BOS> tra@@ ining will be pro@@ <UNK> . 會 有 訓練 。 <UNK> 會 <UNK> 。
+<BOS> how many pre@@ fe@@ c@@ tures are there in japan ? 日本 有 多少 個 <UNK> ? 日本 有 有 幾本書 ？
+<BOS> where did you go that night ? 那天 晚上 你 在 哪裡 ？ 你 昨天 去 去 了 ？
+<BOS> tom did it again . 湯姆 又 做 了 一次 。 湯姆 做 了 了 。
+<BOS> he works hard all the year round . 他 一年 <UNK> 努力 工作 。 他 在 <UNK> 都 工作 工作
+<BOS> you 've got to set the alarm clock before you go to bed . 在 你 上牀 睡覺 之前 ， 你 必須 把 <UNK> <UNK> 好 。 在 在 在 之前 前 前 <UNK> 。
+<BOS> he did n't agree to my proposal . 他 不 同意 我 的 建議 。 他 不 同意 我 的 建議 。
+<BOS> he is n't my brother . he 's my cousin . 他 不是 我 的 兄弟 。 他 是 我 的 <UNK> 。 他 不是 我 弟弟 ， 他 是 我 的 。
+<BOS> he put his hand gen@@ tly on her shoulder . 他 把 他 的 <UNK> <UNK> 放在 她 的 肩上 。 他 把 他 的 的 的 <UNK> <UNK> 了 了 的 肩上 。 肩上 。
+<BOS> i hate chemistry . 我 討厭 化學 。 我 討厭 <UNK> 。
+<BOS> i belong to the swimming club . 我 參加 游泳 <UNK> 。 我 參加 這個 。 。
+<BOS> i grew up in this small town . 我 在 這個 小鎮 上長 大 的 。 我 在 <UNK> <UNK> <UNK> 。
+<BOS> i 'm really busy . 我 真的 <UNK> 。 我 真的 忙 。
+<BOS> i might say yes . 我 可能 會 說 是 。 我 可能 說 。 。
+<BOS> i do n't lie . 我 不 說 謊 。 我 不 。
+<BOS> i ca n't shut it down . 我 不能 <UNK> 它 。 我 不能 忍受 。 。
+<BOS> i want to reserve a room . 我想 預定 一個 房間 。 我 騎馬 房間 。
+<BOS> hi ! do you work here ? 嗨 ！ 你 在 這兒 工作 嗎 ？ 你 ！ 在 這裏 工作 嗎 ？
+<BOS> i do forgive tom . 我 真的 原諒 湯姆 。 我 <UNK> 湯姆 。
+<BOS> mary spoke japanese slowly . <UNK> 說 得 很慢 。 瑪麗 <UNK> <UNK> 。 。
+<BOS> attack is the best form of de@@ f@@ en@@ se . <UNK> 是 最好 的 <UNK> 。 電 是 最 的 的 的 。
+<BOS> how many people know about us ? 有 多少 人 知道 我們 ？ 知道 知道 知道 我們 ？ ？
+<BOS> tom fro@@ w@@ ned . <UNK> <UNK> 。 湯姆 <UNK> <UNK> 。
+<BOS> tom 'll go . 湯姆要 走 。 湯姆 去 。
+<BOS> i still ca n't believe you 're married . 我 仍然 無法 相信 你 結婚 了 。 我 還 不會 相信 你 已婚 了 。
+<BOS> he 's a bit <UNK> ge@@ tic . 他 有點 <UNK> 。 他 是 個 <UNK> 。
+<BOS> which cap is yours ? <UNK> 帽子 是 你 的 ？ <UNK> 是 是 你 的 的 ？
+<BOS> it makes sense . 那樣 <UNK> 。 它 沒用 。 。
+<BOS> when can we eat , i wonder . 我 不 知道 我們 什麼 時候 可以 吃 。 我們 什麼 時候 時候 ， 我 。 。
+<BOS> what fruit do you like the best ? 你 最 喜歡 什麼 水果 ？ 你 最 喜歡 哪個 季節
+<BOS> is she all right ? 她 是 正確 的 嗎 ？ 她 都 是 正確 嗎 ？
+<BOS> he has ambi@@ tion , so he works hard . 他 有 <UNK> ， 所以 他 很 努力 工作 。 他 有 <UNK> ， ， 他 努力 努力 工作
+<BOS> tom helped mary move the furniture . 湯姆 幫 瑪麗 移動 傢俱 。 湯姆 幫 瑪麗 畫 了 。
+<BOS> i noticed a pa@@ tter@@ n . 我 注意 到 一個 <UNK> 。 我 買 了 <UNK> <UNK> 。
+<BOS> i do not know how to use it . 我 不 知道 如何 使用 它 。 我 不 知道 怎麼 使用 。
+<BOS> it 's too large . 它 太大 了 。 它 太 了 。
+<BOS> i do n't like to soci@@ ali@@ ze . 我 不 喜歡 跟 人 <UNK> 。 我 不 喜歡 <UNK> <UNK> 。
+<BOS> it 's cold this morning . 今天 早上 冷 。 今天 早上 冷 冷
+<BOS> everyone knows the law . 大家 都 知道 這個 法律 。 每個 人 都 都 。 。
+<BOS> the man and his wife helped each other . 這 男人 和 他 妻子 互相 幫助 。 這個 男人 和 他 的 妻子 的 的 。 。
+<BOS> have you ever had food poi@@ son@@ ing ? 您 曾經 <UNK> <UNK> ？ 你 曾經 <UNK> <UNK> 嗎 ？
+<BOS> it 's a clear day . 它 是 一個 晴朗 的 日子 。 今天 是 一天 。
+<BOS> you may take this . 您 可以 拿 着 這個 . 你 可以 使用 這個 。
+<BOS> you should come back immediately . 你 應該 馬上 回來 。 你 應該 會 回來 。
+<BOS> how did you find my house ? 你 怎麼 找到 我 的 房子 的 ？ 你 怎麼 寫 我 的 的 ？
+<BOS> i had no idea it would put you to so much trouble . 我 一點 都 不 知道 這會 給 你 帶來 那麼 多 問題 。 我 不 知道 你 能 你 你 再 多 。 。
+<BOS> i want to buy this dictionary . 我 想 買 這本 字典 。 我 想 買 這本書 。
+<BOS> water becomes so@@ lid when it freezes . 水 結冰 後 成爲 <UNK> 。 天氣 <UNK> 的 的 <UNK> <UNK> 冰 。
+<BOS> tom wants to go to japan . 湯姆想 去 日本 。 湯姆 想 去 日本 日本
+<BOS> i 've never met such a kind man . 我 從沒 遇到 過 那麼 <UNK> 的 男人 。 我 從 沒 聽說 過 個 的 。 。
+<BOS> i was struck by lightning . 我 被 <UNK> 了 。 我 被 <UNK> <UNK> 。
+<BOS> i liked tom 's first book more than the second . <UNK> <UNK> ， 我 更 喜歡 湯姆 的 第一 本書 。 我 想 湯姆 的 的 <UNK> <UNK> <UNK> 。 。
+<BOS> i have three camer@@ as . 我 有 <UNK> <UNK> 。 我 有 <UNK> <UNK> 。
+<BOS> i 'm afraid it wo n't work . 我怕 它 是 行不通 的 。 我 <UNK> 。 。
+<BOS> they sell candy . 他們 賣 <UNK> 。 他們 <UNK> 了 。
+<BOS> my french is n't good enough . 我 的 法語 說 得 不夠 好 。 我 的 不太好 不好 。 。
+<BOS> i am willing to attend the meeting . <UNK> 參加 這場 會議 。 我會 出席 會議 會議 。
+<BOS> i paid two thousand yen for the book . 我用 <UNK> 日元 買 了 這 本書 。 我付 了 買 買 買 。 。
+<BOS> i should not have said that . 我 不該 說 那個 。 我 不 該 這樣 。 。
+<BOS> i can play tennis . 我會 打 網球 。 我 打 網球 。
+<BOS> was his story true ? 他 的 故事 是 真的 嗎 ？ 他 的 故事 是 真的 嗎
+<BOS> who 's the man playing the piano ? 那個 正在 彈鋼琴 的 男人 是 誰 ? 那個 男人 正在 彈 女孩 誰 ？
+<BOS> it 's hot out here . 這裏 夠 熱 。 這裡 在 這裡 。
+<BOS> i 'm currently a teacher at this school . 我 現在 在 這 所 學校 <UNK> 。 我 是 是 學校 的 學校 。
+<BOS> school <UNK> shes before noon on saturdays . 學校 在 星期六 中午 之前 放學 。 學校 <UNK> <UNK> <UNK> 開學 開學
+<BOS> i do n't want to have an operation . 我 不想 接受 手術 。 我 不想 發燒 。
+<BOS> tom is a boston native . 湯姆是 波士頓 <UNK> 。 湯姆 是 個 老實人 。
+<BOS> after the accident , tom decided to stop skating . 事故 過後 ， 湯姆 覺得 停止 滑冰 了 。 看 了 ， 湯姆 讓 決定 。 。
+<BOS> many kinds of birds live in japan . <UNK> 鳥類 住 在 日本 。 許多 日本 日本 日本 日本 日本 。
+<BOS> it seems less crowded during the week . <UNK> 似乎 比較 不 <UNK> 。 雪 幾乎 <UNK> 大雨 。 。
+<BOS> here is a photograph of my family . 這裡 有 一張 我 全家 的 照片 。 這裡 是 我 的 的 照片 。
+<BOS> could you drive tom home ? 你 <UNK> 湯姆 回家 嗎 ？ 你 會 聯繫 湯姆 回家 嗎 ？
+<BOS> he seldom goes to church . 他 很少 去 教堂 。 他 開車 <UNK> 。
+<BOS> will the train leave on time ? <UNK> <UNK> 準時 出發 嗎 ？ 火車 火車 到 ？
+<BOS> she <UNK> pped herself in a blanket . 她 用 一條 毯子 把 自己 <UNK> 起來 。 她 <UNK> <UNK> <UNK> 了 。
+<BOS> breakfast is ready . 早飯 準備 好 了 。 早飯 準備 準備 。
+<BOS> tom gave mary a fla@@ sh@@ light . 湯姆 給 了 瑪麗 一把 <UNK> 。 湯姆給 了 瑪麗 一個 <UNK> 。
+<BOS> your tri@@ po@@ d is in my office . 你 的 <UNK> 在 我 的 辦公室 裏 。 你 的 <UNK> 在 我 的 辦公室 。 。
+<BOS> i think maybe tom was right . 我 認為 湯姆 可能 是 對 的 。 我 認為 知道 湯姆 是 對 的
+<BOS> he 's a good <UNK> . 他 是 個 好人 。 他 是 個 好 。 。
+<BOS> tom is a ra@@ ci@@ st . 湯姆 是 <UNK> 者 。 湯姆 是 個 <UNK> 的 。
+<BOS> she came across the street . 她 過 了 馬路 。 她 <UNK> 了 了 。
+<BOS> what were tom and mary doing here ? 湯姆 和 瑪麗 在 這裡 做 了 甚麼 ？ 湯姆 和 瑪麗 在 這裡 做 什麼 ？
+<BOS> if a person has not had a chance to ac@@ qui@@ re his target language by the time he 's an ad@@ <UNK> , he 's unlikely to be able to reach native speaker level in that language . 如果 一個 人 在 成人 前 沒 有 <UNK> 得 目標 語言 ， 他 對 該 語言 的 認識 達 到 <UNK> 程度 的 機會 是 相當 小 的 。 如果 一個 政治家 沒有 沒有 <UNK> 他 他 他 他 <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 的 的 。 。 。
+<BOS> i 'm old . 我 老 了 。 我 <UNK> 了 。
+<BOS> visiting a foreign country must be expensive . 到 外國 一定 很貴 。 <UNK> 是 應該 是 <UNK> 。
+<BOS> he painted the door over white . 他 把 <UNK> 了 白色 。 他 把 <UNK> 漆成 。 。
+<BOS> thanks very much for having me to dinner the other night . 謝謝 那天 晚上 請 我 吃 了 飯 。 非常 感謝 讓 我 我 <UNK> 。 。
+<BOS> i do n't know either of them . 他們 中 的 任何 一位 我 都 不 認識 。 他 中 他 中 都 都 都 。 。
+<BOS> tom has written to me . 湯姆 <UNK> 我 了 。 湯姆 我 我 。 。
+<BOS> what did you do with my luggage ? 你 把 我 的 行李 放到 哪裡 去 了 ？ 你 把 我 的 相機 怎麼 了 ？
+<BOS> did you watch the soccer game on television ? 你 在 電視 上 看 <UNK> 了 嗎 ？ 你 參觀 <UNK> <UNK> 了 嗎 ？
+<BOS> how long will the meeting last ? 會議 持續 多久 ？ 會議 是 多久 ？
+<BOS> i have a brother in boston . 我 有 個 在 波士頓 的 兄弟 。 我 有 有 在 波士頓 。 。
+<BOS> do you think this thing is cute ? 你 覺得 這個 <UNK> 嗎 ？ 你 認爲 這個 T 是 嗎 ？
+<BOS> i sometimes watch tv . 我 有 時 看 電視 。 我 只 看 電視 電視
+<BOS> let 's get off here . 我們 在 這裏 下車 吧 。 讓 我們 在 這裡 吧 吧 吧
+<BOS> i 'm tom 's assistant . 我 是 湯姆 的 助手 。 我 是 湯姆 的 。 。
+<BOS> mon@@ o@@ po@@ ly is a popular game for <UNK> lies to play . 大 <UNK> 是 一個 家庭 玩 的 <UNK> 遊戲 。 <UNK> 是 一種 <UNK> <UNK> <UNK> 。
+<BOS> he will be back tomorrow . 明天 他會 回來 。 他 明天 會來 回來 。
+<BOS> she fo@@ <UNK> her handkerchief nea@@ tly . 她 <UNK> 地 把 她 的 手帕 <UNK> 。 她 <UNK> 她 <UNK> <UNK> 。
+<BOS> i usually eat out . 我 通常 在 外面 吃飯 。 我 通常 吃 吃 。
+<BOS> we 're still a little confused . 我們 還是 有點 <UNK> 。 我們 還 有點 。
+<BOS> she was very proud of her father . 她 非常 <UNK> 她 父親 為榮 。 她 爲 她 的 父親 。 羞恥
+<BOS> we did n't know what to do next . 我們 不 知道 下 一步 要 做 什麼 。 我們 不 知道 一步 一步 一步 一步 該 做 。
+<BOS> he came from a tiny mountain town . 他來 <UNK> 小 <UNK> 。 他 <UNK> <UNK> 了 了 了 了
+<BOS> this car was so cheap that he could afford it . 這車 便宜 得 讓 他 能 買 得 起 。 這 <UNK> <UNK> 他 能 了 它 。
+<BOS> you should take up golf . 你 應該 開始 <UNK> 高爾夫 。 你 應該 趕快 <UNK> 。
+<BOS> `` the phone is ringing . '' `` i 'll get it . '' “ 電話響 了 。 ” “ 我 去 接 。 ” “ 電話響 了 。 ” “ “ 。 。 。 。
+<BOS> i wish i could buy you everything you wanted . 我 希望 我能 買下 你 想要 的 所有 東西 。 但願 我 買 買 你 你 想要 東西 。
+<BOS> i still love her . 我 仍然 愛着 她 。 我 依舊 愛着 她 。
+<BOS> je@@ su@@ s loves you . <UNK> 愛 你 。 <UNK> <UNK> <UNK> 。
+<BOS> you 've got a lot of gu@@ ts . 你 <UNK> 很大 。 你 有 很多 。 。
+<BOS> tom 's comment was in@@ appro@@ priate . 湯姆 的 評論 不合 <UNK> 。 湯姆 的 <UNK> <UNK> <UNK> 。
+<BOS> she gave me a present . 她給 了 我 一件 禮物 。 她給 了 我 一個 禮物 。
+<BOS> it does n't matter . 沒關係 。 這 不 。 。
+<BOS> tom is living with his uncle now . 湯姆現 在 跟 他 叔叔 住 在 一起 。 湯姆 現在 正在 在 在 。 。
