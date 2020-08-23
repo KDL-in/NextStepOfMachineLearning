@@ -50,13 +50,46 @@
 >     - Network Pruning
 >       - 裁剪网络参数
 >       - 重要性衡量
->  - Weight Quantization
->       - 网络数据类型转换
->  
+>    - Weight Quantization
+>         - 网络数据类型转换
+>   
 > - HW8 ，机器翻译任务，seq2seq，这个任务的实现难度比较大
 >   - seq2seq基本框架
 >    - attention实现
 >     - Schedule Sampling 实现
 >    - Beam Search实现，未验证
 >     - Bleu评价
+>
+> - HW9, 无监督学习，动物与风景区别，CNN autoencoder实现
+>
+>      - nn.ConvTranspose2d实现deconvolution
+>
+>      - fine-tuning
+>      - sklearn降维，KPCA，t-SNE
+>
+> - HW10，异常检测，图片分类，其中几个分类算异常分类。向量化-重构法，依靠重构的mse多少代替预测，异常数据的mse总是比较高的。（csv中直接输出test的mse分数）
+>
+>      - AutorEncoder
+>
+>      - - FC-AE
+>        - CNN-AE
+>        - VAE
+>
+>      - Latens Code Reconstruction
+>
+>      - - KNN, PCA
+>
+>      - 可视化
+>
+>      - - PCA+TSNE
+>
+>      - ROC曲线，AOC值
+>
+> - HW12，迁移学习，实现domain adversarial learning。实现图片到手绘图片的识别。
+>
+>      - discriminator的实现
+>      - 迭代式训练
+>      - 自学习（好像用处不是很大）
+>
+> - HW13，meta learning，藏文few-shot learning识别
 
